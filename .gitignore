@@ -12,6 +12,9 @@
 *.la
 *.a
 
+# Python
+*.pyc
+
 config.log
 configure.deps
 debug/*
