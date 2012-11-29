@@ -13,3 +13,7 @@
 *.a
 
 config.log
+configure.deps
+debug/*
+deps/*
+release/*
